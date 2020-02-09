@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="18423" started-at="2019-08-13T13:52:16Z" finished-at="2019-08-13T13:52:35Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="18423" started-at="2019-08-13T13:52:16Z" finished-at="2019-08-13T13:52:35Z">
+      <class name="mavendemo1.MavenDemoTest">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:mavendemo1.MavenDemoTest@6442b0a6]" name="tc2" is-config="true" duration-ms="11756" started-at="2019-08-13T19:22:16Z" finished-at="2019-08-13T19:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:mavendemo1.MavenDemoTest@6442b0a6]" name="tc3" duration-ms="3524" started-at="2019-08-13T19:22:28Z" finished-at="2019-08-13T19:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:mavendemo1.MavenDemoTest@6442b0a6]" name="tc4" is-config="true" duration-ms="3113" started-at="2019-08-13T19:22:32Z" finished-at="2019-08-13T19:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- mavendemo1.MavenDemoTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
